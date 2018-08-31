@@ -327,7 +327,7 @@ $form-group-margin-bottom:       30px !default;
 		font-size: 16px;
 		min-height: 420px;
 		vertical-align: middle;
-		margin: 0px 10px;
+		margin: 10px;
 		padding: 25px 25px 0px;
 		background: $brand-white;
 		-webkit-box-shadow: 7px 14px 42px 3px rgba(163, 174, 184, 0.4);
@@ -343,10 +343,10 @@ $form-group-margin-bottom:       30px !default;
 		background-repeat: no-repeat;
 
     @media screen and (max-width: $screen-md) {
-      width: 33%;
+      width: 30%;
     }
     @media screen and (max-width: $screen-sm) {
-      width: 50%;
+      width: 45%;
     }
     @media screen and (max-width: $screen-xs) {
       width: 100%;

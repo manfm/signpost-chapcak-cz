@@ -769,7 +769,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 16px;
   min-height: 420px;
   vertical-align: middle;
-  margin: 0px 10px;
+  margin: 10px;
   padding: 25px 25px 0px;
   background: #fff;
   -webkit-box-shadow: 7px 14px 42px 3px rgba(163, 174, 184, 0.4);
@@ -786,13 +786,13 @@ h1, h2, h3, h4, h5, h6 {
 
 @media screen and (max-width: 992px) {
   #fh5co-intro .fh5co-block {
-    width: 33%;
+    width: 30%;
   }
 }
 
 @media screen and (max-width: 768px) {
   #fh5co-intro .fh5co-block {
-    width: 50%;
+    width: 45%;
   }
 }
 
