@@ -1031,21 +1031,21 @@ h1, h2, h3, h4, h5, h6 {
 				font-size: 16px;
 				font-weight: 400;
 			}
-      &:hover, &:focus {
-  			-webkit-box-shadow: 7px 14px 42px 3px rgba(0, 0, 0, 0.4);
-  			-moz-box-shadow: 7px 14px 42px 3px rgba(0, 0, 0, 0.4);
-  			-ms-box-shadow: 7px 14px 42px 3px rgba(0, 0, 0, 0.4);
-  			-o-box-shadow: 7px 14px 42px 3px rgba(0, 0, 0, 0.4);
-  			box-shadow: 7px 14px 42px 3px rgba(0, 0, 0, 0.4);
-  			text-decoration: none;
-  			top: -15px;
-  			img {
-  				opacity: .7;
-  			}
-  			h2, span {
-  				text-decoration: none!important;
-  			}
-  		}
+      // &:hover, &:focus {
+  		// 	-webkit-box-shadow: 7px 14px 42px 3px rgba(0, 0, 0, 0.4);
+  		// 	-moz-box-shadow: 7px 14px 42px 3px rgba(0, 0, 0, 0.4);
+  		// 	-ms-box-shadow: 7px 14px 42px 3px rgba(0, 0, 0, 0.4);
+  		// 	-o-box-shadow: 7px 14px 42px 3px rgba(0, 0, 0, 0.4);
+  		// 	box-shadow: 7px 14px 42px 3px rgba(0, 0, 0, 0.4);
+  		// 	text-decoration: none;
+  		// 	top: -15px;
+  		// 	img {
+  		// 		opacity: .7;
+  		// 	}
+  		// 	h2, span {
+  		// 		text-decoration: none!important;
+  		// 	}
+  		// }
 		}
 
 	}
@@ -1133,7 +1133,6 @@ h1, h2, h3, h4, h5, h6 {
 	float: left;
 	width: 100%;
 	padding-bottom: 50px;
-	margin-bottom: 50px;
 	clear: both;
 	h2 {
 		margin: 0 0 30px 0;

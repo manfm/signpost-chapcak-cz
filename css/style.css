@@ -1034,24 +1034,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
 
-#fh5co-work .fh5co-project-item .fh5co-text:hover, #fh5co-work .fh5co-project-item .fh5co-text:focus {
-  -webkit-box-shadow: 7px 14px 42px 3px rgba(0, 0, 0, 0.4);
-  -moz-box-shadow: 7px 14px 42px 3px rgba(0, 0, 0, 0.4);
-  -ms-box-shadow: 7px 14px 42px 3px rgba(0, 0, 0, 0.4);
-  -o-box-shadow: 7px 14px 42px 3px rgba(0, 0, 0, 0.4);
-  box-shadow: 7px 14px 42px 3px rgba(0, 0, 0, 0.4);
-  text-decoration: none;
-  top: -15px;
-}
-
-#fh5co-work .fh5co-project-item .fh5co-text:hover img, #fh5co-work .fh5co-project-item .fh5co-text:focus img {
-  opacity: .7;
-}
-
-#fh5co-work .fh5co-project-item .fh5co-text:hover h2, #fh5co-work .fh5co-project-item .fh5co-text:hover span, #fh5co-work .fh5co-project-item .fh5co-text:focus h2, #fh5co-work .fh5co-project-item .fh5co-text:focus span {
-  text-decoration: none !important;
-}
-
 .fh5co-person {
   border: 2px solid #f2f2f2;
   padding: 80px 30px 30px 30px;
@@ -1147,7 +1129,6 @@ h1, h2, h3, h4, h5, h6 {
   float: left;
   width: 100%;
   padding-bottom: 50px;
-  margin-bottom: 50px;
   clear: both;
 }
 
