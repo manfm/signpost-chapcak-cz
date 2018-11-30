@@ -1004,7 +1004,14 @@ h1, h2, h3, h4, h5, h6 {
   -moz-border-radius: 7px;
   -ms-border-radius: 7px;
   border-radius: 7px;
-  padding: 10px 20px;
+  padding: 20px;
+}
+
+#fh5co-work .fh5co-project-item .fh5co-text .fh5co-intro-icon {
+  font-size: 50px;
+  color: #52d3aa;
+  margin-bottom: 30px;
+  display: block;
 }
 
 #fh5co-work .fh5co-project-item .fh5co-text h2, #fh5co-work .fh5co-project-item .fh5co-text span {
@@ -1012,9 +1019,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #fh5co-work .fh5co-project-item .fh5co-text h2 {
-  font-size: 18px;
+  font-size: 30px;
   font-weight: bold;
   margin: 0;
+}
+
+#fh5co-work .fh5co-project-item .fh5co-text .fh5co-intro-icon-small {
+  margin-right: 14px;
 }
 
 #fh5co-work .fh5co-project-item .fh5co-text span {
@@ -1185,7 +1196,7 @@ h1, h2, h3, h4, h5, h6 {
 .section-heading h3 {
   font-weight: 300;
   line-height: 1.5;
-  color: #929292;
+  color: white;
 }
 
 @media screen and (max-width: 768px) {
